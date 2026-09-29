@@ -64,23 +64,23 @@ This distinction is intentional: the project demonstrates not only implementatio
 
 ### Academic fuzzy surface
 
-![Academic fuzzy surface](results/images/academic_surface.png)
+![Academic fuzzy surface](fuzzy-student-performance-final/results/images/academic_surface.png)
 
 ### Paper values vs reproduced values
 
-![Reference versus reproduction](results/images/table7_reference_vs_reproduction.png)
+![Reference versus reproduction](fuzzy-student-performance-final/results/images/table7_reference_vs_reproduction.png)
 
 ### GPA membership functions
 
-![GPA membership functions](results/images/membership_gpa.png)
+![GPA membership functions](fuzzy-student-performance-final/results/images/membership_gpa.png)
 
 ### Examination membership functions
 
-![Exam membership functions](results/images/membership_exam.png)
+![Exam membership functions](fuzzy-student-performance-final/results/images/membership_exam.png)
 
 ### Rule-base visualization
 
-![Academic rule heatmap](results/images/academic_rule_heatmap.png)
+![Academic rule heatmap](fuzzy-student-performance-final/results/images/academic_rule_heatmap.png)
 
 Additional figures, including cognitive rules and the reconstructed overall stage, are available in `results/images/`.
 
